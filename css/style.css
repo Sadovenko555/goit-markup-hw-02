@@ -88,6 +88,9 @@ body {
   text-decoration: none;
 }
 
+  .nav-link.current{
+    color: var(--ocean);
+}
 .nav-link:hover,
 .nav-link:focus {
   color: var(--ocean);
