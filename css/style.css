@@ -146,11 +146,6 @@ body {
   list-style: none;
 }
 
-.strategy-content {
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: var(--slate);
-}
 
 .concept-list {
   list-style: none;
